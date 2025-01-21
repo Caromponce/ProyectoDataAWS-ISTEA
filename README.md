@@ -1,5 +1,4 @@
-# Proyecto: "Despliegue y Monitoreo de un Modelo de Machine Learning para
-Clasificación de Clientes en AWS" 
+# Proyecto: "Despliegue y Monitoreo de un Modelo de Machine Learning para Clasificación de Clientes en AWS" 
 ---
 
 El siguiente trabajo se realizó como proyecto final de la materia Laboratorio de Minería de Datos en ISTEA, utilizando el entorno de AWS para estudiantes. 
